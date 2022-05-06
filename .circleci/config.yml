@@ -19,3 +19,6 @@ jobs:
       - run:
           name: Run tests
           command: go test -v
+      - run:
+          name: Run golang Apps
+          command: go run main.go
