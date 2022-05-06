@@ -24,7 +24,7 @@ Expected Result :
   "status": "OK",
   "data": {
   "addToCart": {
-  "name": "MacBook Pro 1",
+  "name": "MacBook Pro",
   "qty": 1,
   "sku": "43N23P"
   }
