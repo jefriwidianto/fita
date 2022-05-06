@@ -18,7 +18,7 @@ jobs:
             - "/go/pkg/mod"
       - run:
           name: Run tests
-          command: go test -v ./...
+          command: go test -v ./Repository/transaction
       - run:
           name: Run golang Apps
           command: go build
