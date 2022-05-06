@@ -21,4 +21,4 @@ jobs:
           command: go test -v ./...
       - run:
           name: Run golang Apps
-          command: go run main.go
+          command: go build
