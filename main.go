@@ -1,5 +1,8 @@
 package main
 
+func TestName(t *testing.T) {
+	
+}
 import (
 	"fita/Config"
 	"fita/Routes"
