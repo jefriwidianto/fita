@@ -1,19 +1,16 @@
 package main
 
-func TestName(t *testing.T) {
-	
-}
 import (
 	"fita/Config"
 	"fita/Routes"
 )
 
-func main () {
+func main() {
 	AppInitialization()
 }
 
-func AppInitialization () {
-	//config DB SQL
+func AppInitialization() {
+	//config DB SQL test
 	var setDB Config.ConfigSettingSql
 	setDB.InitDB()
 
