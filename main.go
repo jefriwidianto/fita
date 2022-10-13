@@ -10,7 +10,7 @@ func main() {
 }
 
 func AppInitialization() {
-	//config DB SQLssss
+	//config DB SQL
 	var setDB Config.ConfigSettingSql
 	setDB.InitDB()
 
