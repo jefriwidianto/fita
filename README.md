@@ -1,5 +1,9 @@
 # fita
 
+Tech Stack:
+- Golang
+- GraphQl
+
 #API Service Backend
 
 API root :
